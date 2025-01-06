@@ -44,5 +44,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## Contact
 For further inquiries, please contact the authors:
-- Ali Shair Muhammad Bhuttah: [msds24003@itu.edu.pk](mailto:msds24008@itu.edu.pk)
+- Ali Shair Muhammad Bhuttah: [msds24008@itu.edu.pk](mailto:msds24008@itu.edu.pk)
 
